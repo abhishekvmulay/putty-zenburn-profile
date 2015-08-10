@@ -4,4 +4,4 @@ Credit: http://looselytyped.blogspot.in/2013/02/zenburn-pleasant-color-scheme-fo
 
 Download and run the .reg file.
 
-Thats it!
+That's it!
